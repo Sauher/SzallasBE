@@ -1,0 +1,315 @@
+[2025-10-22 12:04:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-10-22 12:04:14] [31merror[39m : [DB ERROR] : ER_NO_SUCH_TABLE: Table 'katica.termekek' doesn't exist
+[2025-10-22 12:05:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-10-22 12:05:34] [32minfo[39m : GET /kategoria - 9 record(s) sent
+[2025-10-22 12:13:57] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-10-22 12:14:14] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-10-22 12:15:03] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-10-22 12:15:37] [32minfo[39m : GET /kategoria/1 - 1 record(s) sent
+[2025-10-22 12:17:38] [32minfo[39m : GET /kategoria/1 - 1 record(s) sent
+[2025-11-03 08:12:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:31:30] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:31:43] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:31:45] [31merror[39m : [DB ERROR] : ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSTER INTO kategoria (kategoriaNev) VALUES ('Édességek')' at line 1
+[2025-11-03 09:31:56] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:31:58] [31merror[39m : [DB ERROR] : ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSTERT INTO kategoria (kategoriaNev) VALUES ('Édességek')' at line 1
+[2025-11-03 09:32:40] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:32:41] [31merror[39m : [DB ERROR] : ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSTERT INTO kategoria (kategoriaNev) VALUES ('Édességek')' at line 1
+[2025-11-03 09:32:46] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:33:12] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:33:14] [31merror[39m : [DB ERROR] : ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSTERT INTO kategoria (kategoriaNev) VALUES ('Édességek')' at line 1
+[2025-11-03 09:33:53] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:33:55] [31merror[39m : [DB ERROR] : ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'INSTERT INTO kategoria (kategoriaNev) VALUES ('Édességek')' at line 1
+[2025-11-03 09:34:04] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:34:04] [32minfo[39m : POST /kategoria - 1 record(s) affected
+[2025-11-03 09:38:18] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:38:24] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:39:15] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:53:45] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:53:48] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:53:54] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:54:34] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:55:59] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:56:35] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:58:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:58:47] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:58:50] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 09:59:18] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:01:03] [32minfo[39m : PATCH /kategoria/1 - 0 record(s) affected
+[2025-11-03 10:01:50] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:02:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:02:02] [32minfo[39m : PATCH /kategoria/1 - 1 record(s) affected
+[2025-11-03 10:09:13] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:12:46] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:13:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:14:14] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:14:28] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:15:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:27:19] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 10:27:23] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:00:47] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:01:05] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:01:52] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:02:36] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:02:54] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:09:49] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:10:27] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:10:30] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:10:33] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:10:56] [32minfo[39m : POST /users/login - 1 record(s) affected
+[2025-11-03 11:11:02] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:11:06] [32minfo[39m : POST /users/login - 1 record(s) affected
+[2025-11-03 11:16:39] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:16:47] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:17:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:20:15] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:20:26] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:22:24] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:24:20] [32minfo[39m : POST /users/registration - 1 record(s) affected
+[2025-11-03 11:52:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:52:43] [32minfo[39m : POST /users/login - 1 record(s) affected
+[2025-11-03 11:52:45] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:53:11] [32minfo[39m : POST /users/login - 0 record(s) affected
+[2025-11-03 11:53:13] [32minfo[39m : POST /users/login - 1 record(s) affected
+[2025-11-03 11:56:35] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:57:50] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 11:59:14] [32minfo[39m : POST /users/registration - 1 record(s) affected
+[2025-11-03 11:59:21] [32minfo[39m : POST /users/registration - 1 record(s) affected
+[2025-11-03 11:59:28] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:02:56] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:04:24] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:05:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:06:49] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:08:42] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:09:38] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:09:43] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:17:21] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:19:40] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:20:25] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:20:51] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:21:04] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:22:46] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:22:48] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:24:44] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:26:16] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:27:27] [32minfo[39m : GET /users/id/eq/1 - 1 record(s) sent
+[2025-11-03 12:28:09] [32minfo[39m : GET /users/name/eq/b%C3%A9la - 3 record(s) sent
+[2025-11-03 12:28:53] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-03 12:29:14] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 08:10:17] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 08:23:27] [32minfo[39m : GET /kategoria - 10 record(s) sent
+[2025-11-04 08:23:36] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 08:23:43] [31merror[39m : [DB ERROR] : ER_NO_SUCH_TABLE: Table '2025_pizzeria.kategoria' doesn't exist
+[2025-11-04 08:24:05] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 08:24:07] [32minfo[39m : GET /users - 2 record(s) sent
+[2025-11-04 08:24:36] [32minfo[39m : GET /users - 2 record(s) sent
+[2025-11-04 08:24:38] [32minfo[39m : GET /users/1 - 1 record(s) sent
+[2025-11-04 10:33:18] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 11:02:03] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 11:02:04] [32minfo[39m : GET /users - 2 record(s) sent
+[2025-11-04 11:02:25] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:04:30] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:05:32] [31merror[39m : [DB ERROR] : ER_BAD_FIELD_ERROR: Unknown column 'kategoriaNev' in 'field list'
+[2025-11-04 11:06:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 11:06:41] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 11:08:15] [32minfo[39m : POST /users - 1 record(s) affected
+[2025-11-04 11:12:26] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:16:16] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:17:04] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:19:35] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:20:41] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 11:21:07] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:21:48] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:22:03] [32minfo[39m : POST /users - 1 record(s) affected
+[2025-11-04 11:23:26] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 11:23:49] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:24:29] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:27:01] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:28:30] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:30:53] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 11:31:31] [32minfo[39m : GET /users/registration - 0 record(s) sent
+[2025-11-04 11:32:40] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 11:32:48] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-04 11:33:00] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-05 08:16:36] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-10 08:05:51] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-10 09:03:32] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-10 09:03:36] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-10 10:01:27] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-10 12:14:32] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-10 12:14:37] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-10 12:27:56] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-10 12:28:30] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-10 12:30:05] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:05:20] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:20:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:20:40] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:21:42] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:22:32] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:22:50] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:23:42] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:30:41] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:33:05] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:36:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 08:37:00] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 09:30:29] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 09:31:45] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 09:36:57] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:05:49] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:06:16] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:09:37] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:09:38] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:09:50] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:14:26] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:16:07] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:28:20] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:28:57] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:29:12] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:29:52] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:30:27] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:30:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:32:11] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 10:32:43] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-11 12:50:22] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-12 11:11:20] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-12 11:20:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-17 08:04:29] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-17 09:18:02] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-17 09:18:03] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-17 09:18:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-17 09:18:38] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-17 09:31:51] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-17 09:33:42] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-17 09:34:07] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-17 09:34:34] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-17 09:35:09] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 08:05:04] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 08:18:20] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 08:18:31] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 08:19:27] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 08:31:57] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 08:32:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 08:32:47] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 08:32:58] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 08:33:10] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 08:33:13] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:01:16] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:03:40] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:04:07] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:04:34] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:05:09] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:06:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:06:51] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:06:55] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:14:28] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:16:42] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:18:42] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:19:21] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:20:29] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:20:53] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:22:34] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:22:57] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 09:24:58] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 11:05:47] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 11:06:23] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 11:07:48] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 11:08:10] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 11:10:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-18 11:33:48] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 08:09:21] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 08:18:44] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 08:21:46] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 08:40:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 08:40:51] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 08:42:56] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 08:43:05] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 08:44:57] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 08:45:03] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:03:03] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:03:14] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:03:55] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:03:59] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:04:04] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:04:13] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:04:31] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:04:44] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:06:11] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:06:32] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:06:39] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:07:16] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:08:35] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:08:44] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:08:53] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:09:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:09:08] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:09:38] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:10:25] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:10:46] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:10:49] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:10:50] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:10:56] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:11:49] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:12:07] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:13:46] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:14:03] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:15:47] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:52:59] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 09:56:28] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:11:35] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:11:53] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:13:04] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:14:32] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:14:42] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:15:08] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:15:17] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:16:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:16:27] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:16:41] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:16:56] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:17:56] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:18:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:20:22] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:20:43] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:21:12] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:21:43] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:22:16] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:22:46] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:33:24] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:53:20] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:53:26] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:55:58] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:57:33] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:57:45] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 10:59:44] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 11:00:00] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 11:00:11] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 11:00:16] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 11:00:27] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 11:00:37] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 11:01:39] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 11:01:52] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 11:02:40] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 11:17:22] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-11-19 11:55:06] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 08:22:42] [32minfo[39m : Server is listening on http://localhost:undefined
+[2025-12-02 08:23:14] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 08:29:49] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 08:40:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 08:41:19] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 10:34:03] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 12:17:13] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 12:17:17] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 12:19:11] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 12:20:00] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 12:21:15] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 12:21:50] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-02 12:25:31] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-03 11:01:39] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-03 11:13:23] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-03 11:32:01] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-03 11:32:44] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-03 11:34:07] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-03 11:34:16] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-03 11:35:27] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-03 11:35:54] [32minfo[39m : Server is listening on http://localhost:3000
+[2025-12-03 11:47:56] [32minfo[39m : Server is listening on http://localhost:3000

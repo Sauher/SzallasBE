@@ -1,0 +1,98 @@
+@host =http://localhost
+@port = 3000
+
+@url = {{host}}:{{port}}
+
+
+### GET users
+GET {{url}}/users
+Content-Type: application/json
+
+
+### GET user by id
+GET {{url}}/users/1
+Content-Type: application/json
+
+
+### ADD user
+POST  {{url}}/users
+Content-Type: application/json
+
+{
+    "name" : "Név2",
+    "email": "email",
+    "password": "jelszo1",
+    "role": "user",
+    "phone": "4352342362",
+    "address": "adress"
+}
+
+
+### UPDATE user
+PATCH {{url}}/users/1
+Content-Type: application/json
+
+{
+    "kategoriaNev":"Ételkék"
+}
+
+
+### LOGIN
+POST {{url}}/users/login
+Content-Type: application/json
+
+{
+    "email": "teszt@gmail.com",
+    "password": "123456"
+}
+
+
+### REGISTRATION
+POST {{url}}/users/registration
+Content-Type: application/json
+
+{
+    "name":"béla",
+    "email": "bela@email",
+    "password": "titkosJelszo123",
+    "confirm": "titkosJelszo123"
+}
+
+
+
+
+### (X feltételes lekérdezés)
+GET {{url}}/users/name/eq/béla
+Content-Type: application/json
+
+### (Pizza)
+GET {{url}}/order_items/pizza_id/3
+Content-Type: application/json
+
+
+### EMAIL
+POST {{url}}/sendmail
+Content-Type: application/json
+
+{
+    "to" : "dirig82884@agenra.com",
+    "subject" : "Teszt subject",
+    "message" : "Teszt üzenet"
+}
+
+### EMAIL
+POST {{url}}/sendmail
+Content-Type: application/json
+
+{
+    "template" : "registration",
+    "to" : "rekdavid@turr.hu",
+    "subject" : "laszti 🏐",
+    "data":{
+        "username":"Sándor",
+        "email":"sanyi@gmail.com",
+        "password" : "Titkos123",
+        "url" : "https://localhost:4200",
+        "csapat" : "Cisco123"
+    }
+}
