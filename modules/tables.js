@@ -72,8 +72,6 @@ router.get('/:table/:column/:id',(req,res)=>{
         res.status(200).json(results)
     }, req);
 })
-//
-//SELECT * FROM `pizzas` WHERE id = 16;
 
 //SELECT RECORDS FROM TABLE by field
 router.get('/:table/:field/:op/:value', (req, res) => {
@@ -133,7 +131,6 @@ router.post('/upload', upload.single('image'),(req,res) => {
 router.post('/:table/login',(req,res)=>{
     let { email, password } = req.body;
     let table = req.params.table
-    //TODO: VALIDÁCIÓ
 
     if(!email || !password){
         res.status(404).send({error:'Hiányzó adatok!'})
@@ -159,7 +156,6 @@ router.post('/:table/registration',(req,res)=>{
     let table = req.params.table;
     let { name, email,password, confirm,phone, address} = req.body;
     console.log(req.body)
-    //TODO: VALIDÁCIÓ
 
     if(!name || !email || !password || !confirm){
         res.status(400).send({error:'Hiányzó adatok!'});
