@@ -114,6 +114,33 @@ router.post('/sendmail',async (req,res)=>{
         return res.status(500).send({error: "Hiba az email küldéssel! "})
     }
 })
+//SEND EMAIL TO ADMIN
+router.post('/contact',async (req,res)=>{
+    const {name, email, message, subject} = req.body;
+    if(!name || !email || !message || !subject){
+        return res.status(400).send({error: "Hiányzó adatok!"})
+    }
+    try{
+        await transporter.sendMail({
+            from: email,
+            to: SMTP_USER,
+            subject: `${subject}`,
+            html: `
+                <h2>Szállás</h2>
+                <p><strong>Feladó:</strong> ${name}</p>
+                <p><strong>Üzenet:</strong></p>
+                <p>${message}</p>
+            `
+        })
+
+        return res.status(200).send({message: 'Az email küldése sikeres!'});
+    }
+    catch(err)
+    {
+        console.log(err)
+        return res.status(500).send({error: "Hiba az email küldéssel! "})
+    }
+})
 
 //FILE UPLOAD
 router.post('/upload', upload.single('image'),(req,res) => {
