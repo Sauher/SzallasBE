@@ -123,11 +123,11 @@ router.post('/contact',async (req,res)=>{
     try{
         await transporter.sendMail({
             from: email,
-            to: SMTP_USER,
+            to: process.env.SMTP_USER,
             subject: `${subject}`,
             html: `
                 <h2>Szállás</h2>
-                <p><strong>Feladó:</strong> ${name}</p>
+                <p><strong>Feladó:</strong> ${email}</p>
                 <p><strong>Üzenet:</strong></p>
                 <p>${message}</p>
             `
