@@ -230,6 +230,11 @@ router.post('/:table',(req,res)=>{
 router.patch('/:table/:id',(req,res)=>{
     let table = req.params.table;
     let id = req.params.id;
+    // If the request contains a password field, hash it before updating
+    if(req.body && req.body.password){
+        req.body.password = SHA1(req.body.password).toString();
+    }
+
     let fields = Object.keys(req.body);
     let values = Object.values(req.body)
     
